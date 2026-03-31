@@ -66,5 +66,5 @@ You can test the project by:
 
 ## Screenshots
 
-https://github.com/yug150107/Expense-Tracker-App/tree/main/Project%20Screenshots
+https://github.com/Amogh7110/Expense-Tracker-App.git
 
